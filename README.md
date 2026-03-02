@@ -14,7 +14,7 @@ Engineer • Systems Builder • Product-Minded
 
 ## Industrial Experience
 
-Built data analytics and ETL platforms for oil & gas and process control systems.
+Designed and built industrial analytics products for oil & gas, spanning ETL architecture, predictive modeling, and production-grade deployment.
 
 ## What I’m Building
 
