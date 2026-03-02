@@ -36,7 +36,7 @@ Human-in-the-loop decision system separating signal generation, risk enforcement
 ## Currently Exploring
 
 - Agentic AI for offensive security and adversarial testing  
-- AI integration across industrial, financial, and healthcare domains  
+- AI integration across public sector, financial, and healthcare domains  
 - Distributed data systems  
 - Kubernetes-based platform engineering  
 
