@@ -42,7 +42,7 @@ Built as a decision-support platform to learn more about crypto trading.
 
 ## 🧠 Currently Exploring
 
-- Agentic AI in security-sensitive environments  
+- Agentic AI for offensive security and adversarial testing 
 - AI system integration across industrial, financial, and healthcare domains  
 - Distributed data systems and high-volume processing architectures  
 - Kubernetes-based platform engineering  
