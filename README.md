@@ -31,17 +31,3 @@ Email: azhossai@ualberta.ca
 </p>
 
 <hr>
-
----
-
-## ⚡ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zihan001&theme=transparent&show_icons=true&rank_icon=github&locale=en" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=zihan001&theme=transparent" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=zihan001&theme=transparent&layout=compact&hide=css&langs_count=8&border_radius=10&locale=en" />
-</div>
-
-<hr>
