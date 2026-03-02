@@ -12,18 +12,18 @@ Engineer • Systems Builder • Product-Minded
 
 ---
 
-## ⚙️ Industrial Experience
+## Industrial Experience
 
 Built data analytics and ETL platforms for oil & gas and process control systems.
 
-## 🚀 What I’m Building
+## What I’m Building
 
 - AI systems with human-in-the-loop design  
 - Agent-based decision platforms  
 - Big data pipelines  
 - Cloud-native backend infrastructure  
 
-## 🔥 Featured Systems
+## Featured Systems
 
 **Fraud Analytics Pipeline (AWS)**  
 Streaming + batch fraud detection using Kinesis, Lambda, Glue, Redshift, and Terraform.  
@@ -33,14 +33,14 @@ Streaming + batch fraud detection using Kinesis, Lambda, Glue, Redshift, and Ter
 Human-in-the-loop decision system separating signal generation, risk enforcement, and execution.  
 → https://github.com/zihan001/multi-agent-trader  
 
-## 🧠 Currently Exploring
+## Currently Exploring
 
 - Agentic AI for offensive security and adversarial testing  
 - AI integration across industrial, financial, and healthcare domains  
 - Distributed data systems  
 - Kubernetes-based platform engineering  
 
-## 🛠 Stack I Ship With
+## Stack I Ship With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,ts" />
@@ -48,11 +48,11 @@ Human-in-the-loop decision system separating signal generation, risk enforcement
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 </p>
 
-## 🥋 My Hobbies
+## My Hobbies
 
 Guitar • Running • Calisthenics • Muay Thai & Judo (beginner)
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
   <a href="mailto:azhossai@ualberta.ca">
@@ -63,6 +63,6 @@ Guitar • Running • Calisthenics • Muay Thai & Judo (beginner)
   </a>
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/zihan001/zihan001/output/github-contribution-grid-snake-dark.svg)
