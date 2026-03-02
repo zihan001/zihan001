@@ -65,4 +65,4 @@ Guitar • Running • Calisthenics • Muay Thai & Judo (beginner)
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/zihan001/zihan001/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/zihan001/zihan001/output/github-contribution-grid-snake-dark.svg)
