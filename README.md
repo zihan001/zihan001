@@ -1,16 +1,33 @@
-## Hi there 👋
+# Zihan Hossain
 
-<!--
-**zihan001/zihan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-grade AI and data systems with a strong focus on product design.
 
-Here are some ideas to get you started:
+Focused on intelligent automation, distributed architectures, and scalable analytics platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+
+- Agentic AI systems for security and adversarial environments
+- Architecting AI system integration across industrial, financial, and healthcare domains  
+- Distributed data platforms and high-volume processing systems  
+- Kubernetes-based platform engineering and containerized deployments  
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/zihan-hossain/  
+Email: azhossai@ualberta.ca
+
+---
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,c++" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,postman,figma" />
+</p>
+
+<hr>
