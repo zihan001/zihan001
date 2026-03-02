@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=140&section=header&text=Ahmed%20Zihan%20Hossain&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=160&section=header&text=Ahmed%20Zihan%20Hossain&fontSize=36&fontColor=00ff88&animation=fadeIn" />
 </p>
 
 <h3 align="center">
