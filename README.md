@@ -1,6 +1,8 @@
-# Zihan Hossain
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Zihan+Hossain!;" />
+</h1>
 
-I build production-grade AI and data systems with a strong focus on product design.
+### A software engineer passionate about intelligent automation, distributed architectures, and scalable analytics pipelines to solve complex problems and uplift people through technology.
 
 Focused on intelligent automation, distributed architectures, and scalable analytics platforms.
 
