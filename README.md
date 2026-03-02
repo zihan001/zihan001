@@ -25,8 +25,8 @@ Email: azhossai@ualberta.ca
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts" />
-  <img src="https://skillicons.dev/icons?i=aws,kafka,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kafka,postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 </p>
 
