@@ -62,3 +62,7 @@ Guitar • Running • Calisthenics • Muay Thai & Judo (beginner)
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/zihan001/zihan001/blob/output/github-contribution-grid-snake.svg)
