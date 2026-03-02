@@ -20,7 +20,7 @@ Focused on intelligent automation, distributed architectures, and scalable analy
 - Agent orchestration and human-in-the-loop design  
 - Cloud-native backend infrastructure  
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,cpp" />
