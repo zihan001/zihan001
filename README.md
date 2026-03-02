@@ -12,6 +12,12 @@
 
 ---
 
+## ⚙️ Industrial Experience
+
+Built data analytics and ETL platforms for oil & gas and process control applications.
+
+---
+
 ## 🚀 What I’m Building
 
 - AI systems with human-in-the-loop design  
