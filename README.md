@@ -6,16 +6,12 @@
 
 Focused on intelligent automation, distributed architectures, and scalable analytics infrastructure.
 
----
-
 ## Currently Exploring
 
 - Agentic AI in security-sensitive environments  
 - AI system integration across industrial, financial, and healthcare domains  
 - Distributed data platforms and high-volume processing architectures  
 - Kubernetes-driven platform engineering and containerized deployments  
-
----
 
 ## Ask Me About
 
@@ -24,8 +20,6 @@ Focused on intelligent automation, distributed architectures, and scalable analy
 - Agent orchestration and human-in-the-loop design  
 - Cloud-native backend infrastructure  
 
----
-
 ## 🛠 Languages and Tools
 
 <p align="center">
@@ -33,8 +27,6 @@ Focused on intelligent automation, distributed architectures, and scalable analy
   <img src="https://skillicons.dev/icons?i=aws,azure,kafka,postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 </p>
-
----
 
 ## Connect
 
