@@ -1,59 +1,44 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=180&section=header&text=Ahmed%20Zihan%20Hossain&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=160&section=header&text=Ahmed%20Zihan%20Hossain&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  I build AI-powered systems that automate complex workflows and turn data into decision engines.
+I build AI-powered systems that automate complex workflows and turn data into decision engines.
 </h3>
 
 <p align="center">
-  Engineer • Systems Builder • Product-Minded
+Engineer • Systems Builder • Product-Minded
 </p>
 
 ---
 
 ## ⚙️ Industrial Experience
 
-Built data analytics and ETL platforms for oil & gas and process control applications.
-
----
+Built data analytics and ETL platforms for oil & gas and process control systems.
 
 ## 🚀 What I’m Building
 
 - AI systems with human-in-the-loop design  
-- Big data pipelines
-- Agent-based decision systems  
+- Agent-based decision platforms  
+- Big data pipelines  
 - Cloud-native backend infrastructure  
-
----
 
 ## 🔥 Featured Systems
 
-### Fraud Analytics Pipeline (AWS)
-Real-time + batch fraud detection system using Kinesis, Lambda, Glue, Redshift, and Terraform.
+**Fraud Analytics Pipeline (AWS)**  
+Streaming + batch fraud detection using Kinesis, Lambda, Glue, Redshift, and Terraform.  
+→ https://github.com/zihan001/fraud-analytics-pipeline  
 
-Designed for low-latency detection and reproducible cloud-native infrastructure.
-
-→ https://github.com/zihan001/fraud-analytics-pipeline
-
-
-### AI Multi-Agent Trading Platform
-Human-in-the-loop multi-agent decision system separating signal generation, risk enforcement, and execution control.
-
-Built as a decision-support platform to learn more about crypto trading.
-
-→ https://github.com/zihan001/multi-agent-trader
-
----
+**AI Multi-Agent Trading Platform**  
+Human-in-the-loop decision system separating signal generation, risk enforcement, and execution.  
+→ https://github.com/zihan001/multi-agent-trader  
 
 ## 🧠 Currently Exploring
 
-- Agentic AI for offensive security and adversarial testing 
-- AI system integration across industrial, financial, and healthcare domains  
-- Distributed data systems and high-volume processing architectures  
+- Agentic AI for offensive security and adversarial testing  
+- AI integration across industrial, financial, and healthcare domains  
+- Distributed data systems  
 - Kubernetes-based platform engineering  
-
----
 
 ## 🛠 Stack I Ship With
 
@@ -63,16 +48,11 @@ Built as a decision-support platform to learn more about crypto trading.
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
 </p>
 
----
-
 ## 🥋 My Hobbies
 
-Guitar. Long-distance running.  
-Learning Muay Thai and Judo (still a beginner).
+Guitar • Running • Calisthenics • Muay Thai & Judo (beginner)
 
----
-
-## 🤝 Let’s Connect
+## 🤝 Connect
 
 <div align="center">
   <a href="mailto:azhossai@ualberta.ca">
