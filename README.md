@@ -2,7 +2,23 @@
 
 Software engineer building reliable systems around messy real-world workflows.
 
-Currently going deeper into **developer tools, compiler internals, and LLVM**, while continuing to build production software across industrial analytics and workflow automation.
+Currently going deeper into **developer tools, compiler internals, and LLVM**.
+
+```console
+$ ./zihan --status
+
+focus      developer tools / LLVM
+building   Soft Sensor Workbench / SpaFlow
+shipping   AgentGate / Gridstone
+
+$ cat current_obsessions.txt
+LLVM
+compiler internals
+developer tooling
+
+$ echo $STATUS
+still compiling...
+```
 
 ## Now
 
