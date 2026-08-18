@@ -53,10 +53,10 @@ The platform is currently used by **100+ monthly users** across industry partner
 
 ## Tools I Use
 
-**Languages:** C/C++, Python, Go, TypeScript, SQL, Bash
-**Backend & Systems:** Linux, FastAPI, PostgreSQL, Redis, RabbitMQ
-**Data:** DuckDB, Parquet, Polars
-**Infrastructure:** Docker, Terraform, AWS, Azure
+**Languages:** C/C++, Python, Go, TypeScript, SQL, Bash<br>
+**Backend & Systems:** Linux, FastAPI, PostgreSQL, Redis, RabbitMQ<br>
+**Data:** DuckDB, Parquet, Polars<br>
+**Infrastructure:** Docker, Terraform, AWS, Azure<br>
 **AI:** MCP, LLM APIs, local inference, RAG
 
 ## Outside Code
